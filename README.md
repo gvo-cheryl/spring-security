@@ -18,9 +18,6 @@ Spring Security 내부 아키텍처 및 각 객체의 역할 및 처리과정을
 - DB Postgres
 - IDE Intellij
 - Maven
-
-<hr>
-
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
