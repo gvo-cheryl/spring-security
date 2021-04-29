@@ -9,6 +9,7 @@ Spring Security 내부 아키텍처 및 각 객체의 역할 및 처리과정을
 <br>
 
 <h5>개발환경</h5>
+
 - JDK 1.8이상
 - DB Postgres
 - IDE Intellij
@@ -25,5 +26,6 @@ Spring Security 내부 아키텍처 및 각 객체의 역할 및 처리과정을
 <br>
 
 <h5>기본 기능</h5>
+
 - 로그인
 - 권한 설정
