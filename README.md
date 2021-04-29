@@ -1,6 +1,7 @@
-<h2>Spring Security</h2>
+<h1>Spring Security</h1>
 Spring Boot 기반으로 개발하는 Spring Security
 
+<br>
 <br>
 
 <h3>Short Description</h3>
@@ -28,7 +29,7 @@ Spring Security 내부 아키텍처 및 각 객체의 역할 및 처리과정을
 
 <br>
 
-<h5>기본 기능</h5>
+<h3>기본 기능</h3>
 
 - 로그인
 - 권한 설정
